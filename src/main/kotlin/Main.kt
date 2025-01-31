@@ -1,5 +1,5 @@
 package org.shark
 
 fun main() {
-    println("Hello World!")
+    println("Hello Shark! :3 ")
 }
